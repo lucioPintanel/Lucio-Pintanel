@@ -27,5 +27,5 @@
 <!-- This section you create this variables that are used above -->
 <!-- [website]: https://google.com -->
 <!-- [twitter]: https://twitter.com/indrajeet_nikam -->
-[linkedin]: [Lucio Pintanel]
+[linkedin]: https://www.linkedin.com/in/lucio-pintanel
 [Lucio Pintanel]: https://www.linkedin.com/in/lucio-pintanel
