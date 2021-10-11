@@ -1,4 +1,5 @@
 ### Hi, I'm [Lucio Pintanel] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Github](https://img.shields.io/github/followers/lucioPintanel?label=Follow&style=social)](https://github.com/lucioPintanel)
 
 ## Your short description
 - 🔭 I’m currently working on - Labview
@@ -23,8 +24,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
 </p>
-
-[![Github](https://img.shields.io/github/followers/lucioPintanel?label=Follow&style=social)](https://github.com/lucioPintanel)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucioPintanel&theme=tokyonight)
 
